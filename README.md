@@ -16,4 +16,15 @@ Below, is a link to an example of an image with a similar color palette, using d
 
 !(Jason Ridgeway Turtle Dreaming print)[https://www.dnaag.com.au/the-gallery/fine-art-prints/turtle-dreaming/]
 
+##Main Coding Techniques
+
+The main coding techniques I have used are listed below: 
+
+1.  Map volume to size for animation, learned from https://editor.p5js.org/cs4all/sketches/rybEComzV
+2.  Draw the pattern with animated size, retrieved from https://editor.p5js.org/aferriss/sketches/HkE6v-y9z
+3.  Adding preload sound and click button function, learned from https://www.youtube.com/watch?v=Pn1g1wjxl_0&ab_channel=TheCodingTrain
+4. Learned FFT audio analysis function, and tried to incorporate that into the artwork to make the artwork more lively - https://www.youtube.com/watch?v=2O3nm0Nvbi4&list=PLEtC2iwVrNRaOCqVYOB_B4B0Rx4rz2n7Q&index=2&ab_channel=TheCodingTrain
+
+
+
 
