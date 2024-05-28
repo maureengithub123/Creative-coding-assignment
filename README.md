@@ -14,5 +14,6 @@ As being more diverse from other people of my group, I decided to use a more cre
 I have been inspired mainly by indigenous art, especially the use of wheels and circles, and shapes, to create animals and wildlife. 
 Below, is a link to an example of an image with a similar color palette, using different shades of blue ranging from dark blue to bright light blue and wheels to create this image. 
 
+!(Jason Ridgeway Turtle Dreaming print)[https://www.dnaag.com.au/the-gallery/fine-art-prints/turtle-dreaming/]
 
 
