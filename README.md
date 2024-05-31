@@ -17,9 +17,13 @@ I have found it difficult to use the class system, to individually create the el
 ##Colors inspiration
 
 I have been inspired mainly by indigenous art, especially the use of wheels and circles, and shapes, to create animals and wildlife. 
-Below, is a link to an example of an image with a similar color palette, using different shades of blue ranging from dark blue to bright light blue and wheels to create this image. 
+ 
 
 ![Color inspiration - Spirit of the Bush](https://www.theozmaterialgirls.com/assets/full/20267.jpg?20210423090615)
+
+
+Below, is a link to an example of an image with a similar color palette, using different shades of blue ranging from dark blue to bright light blue and wheels to create this image.
+
 
 ![Jason Ridgeway Turtle Dreaming print](https://www.dnaag.com.au/wp-content/uploads/2021/06/Jason-Ridgeway-Turtle-Dreaming-print.jpg)
 
