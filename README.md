@@ -19,9 +19,9 @@ I have found it difficult to use the class system, to individually create the el
 I have been inspired mainly by indigenous art, especially the use of wheels and circles, and shapes, to create animals and wildlife. 
 Below, is a link to an example of an image with a similar color palette, using different shades of blue ranging from dark blue to bright light blue and wheels to create this image. 
 
-![Color inspiration - Spirit of the Bush](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theozmaterialgirls.com%2Fspirit-of-the-bush-aboriginal-art-dolphins-p-1-2m&psig=AOvVaw1xxaZh3HIKRkDxo1pjS_GB&ust=1717241982446000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMia5JDnt4YDFQAAAAAdAAAAABAE)
+![Color inspiration - Spirit of the Bush](https://www.theozmaterialgirls.com/assets/full/20267.jpg?20210423090615)
 
-![Jason Ridgeway Turtle Dreaming print](https://www.dnaag.com.au/the-gallery/fine-art-prints/turtle-dreaming/)
+![Jason Ridgeway Turtle Dreaming print](https://www.dnaag.com.au/wp-content/uploads/2021/06/Jason-Ridgeway-Turtle-Dreaming-print.jpg)
 
 
 
